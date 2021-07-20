@@ -2,5 +2,5 @@
     "name": "temp",
     "description": "Build Ada project with GPRbuild.",
     "iconName": "temp",
-    "categories": ["go","ci","code scanning"]
+    "categories": ["Automation"]
 }
