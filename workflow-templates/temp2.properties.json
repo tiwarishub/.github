@@ -1,0 +1,7 @@
+{
+    "name": "temp2",
+    "description": "Build Ada project with GPRbuild.",
+    "iconName": "temp2",
+    "categories": null,
+    "filePatterns": ["test1.json"]
+}
