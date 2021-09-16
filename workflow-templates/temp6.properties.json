@@ -1,0 +1,6 @@
+{
+    "name": "temp6",
+    "description": "Build Ada project with GPRbuild.",
+    "iconName": "octicon smiley",
+    "categories": ["Java"]
+}
