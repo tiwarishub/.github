@@ -2,6 +2,6 @@
     "name": "temp3",
     "description": "Build Ada project with GPRbuild.",
     "iconName": "temp3",
-    "categories": null,
-    "filePatterns": ["Java"]
+    "categories": ["Java"],
+    "filePatterns": ["test.json"]
 }
